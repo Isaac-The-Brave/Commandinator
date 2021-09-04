@@ -3,7 +3,7 @@
 # Commandinator
 A GPT-J Neural Network Application That Turns Natural Language Statements to Ubuntu (or linux) Commands! 
 
-# Install
+# Install the necessary libraries (I use openssl for libcurl, but if you have an alternative you can use, please go ahead.)
 
 sudo apt-get install libcurl4-openssl-dev libjsoncpp-dev
 
