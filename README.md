@@ -9,3 +9,5 @@ Through using GPT-J's Transformer model, we can turn natural language, a.k.a nor
 ## Give it a try! 
 
 This is my first attempt at a C++ program. I needed to use the 'curl' library and 'jsoncpp' to get this program going. 
+
+## Special Thanks to vicgalle.net for allowing people to use his GPT-J API.
