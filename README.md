@@ -1,4 +1,5 @@
 # Version 0.0.1
+## Made For Ubuntu
 
 # Commandinator
 A GPT-J Neural Network Application That Turns Natural Language Statements to Ubuntu (or linux) Commands! 
@@ -11,7 +12,5 @@ sudo apt-get install libcurl4-openssl-dev libjsoncpp-dev
 Through using GPT-J's Transformer model, we can turn natural language, a.k.a normal words into complex linux CLI commands.
 
 ## Give it a try! 
-
-This is my first attempt at a C++ program. I needed to use the 'curl' library and 'jsoncpp' to get this program going. 
-
+You can either compile it yourself, or just run ./Exec.bin and it will ask for your input after you do. Simple as that
 ## Special Thanks to vicgalle.net for allowing people to use his GPT-J API.
